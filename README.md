@@ -6,5 +6,5 @@ The download includes the complete source files including HTML, CSS, and JavaScr
 Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!
 
 ## Links
-* [blog post on siberiaodens.com](https://siberiaodens.com/freelancer-web-template-now-available/)
 * [Watch a demo](https://siberiaodens.com/freelancer-web-template/)
+* [Blog post on siberiaodens.com](https://siberiaodens.com/freelancer-web-template-now-available/)
