@@ -7,4 +7,5 @@ Whether you're a student looking to showcase your work, a professional looking t
 
 ## Links
 * [Watch a demo](https://siberiaodens.com/freelancer-web-template/)
+* [Documentation](https://siberiaodens.com/docs/public/books/freelancer-web-template/)
 * [Blog post on siberiaodens.com](https://siberiaodens.com/freelancer-web-template-now-available/)
